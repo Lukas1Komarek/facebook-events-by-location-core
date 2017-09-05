@@ -2,3 +2,4 @@
 require('dotenv').config({silent: true});
 
 module.exports = require("./lib/eventSearch");
+module.exports = require("./lib/locationSearch");
