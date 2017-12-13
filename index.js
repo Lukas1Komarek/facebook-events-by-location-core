@@ -2,5 +2,5 @@
 require('dotenv').config({silent: true});
 
 module.exports = require("./lib/eventSearch");
-module.exports = require("./lib/locationSearch");
 module.exports = require("./lib/facebookIdSearch");
+module.exports = require("./lib/locationSearch");
